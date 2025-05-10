@@ -42,8 +42,8 @@ I like to think of programming as poetry — precise, beautiful, and flawless �
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white )](https://instagram.com/is_root )  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white )](https://twitter.com/A_ir_5 )
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white )](https://instagram.com/alireza_h3x)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white )](https://twitter.com/)
 
 ---
 
